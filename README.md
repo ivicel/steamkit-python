@@ -1,8 +1,6 @@
-title: A Simple SteamKit implement with using Python(一)
-date: 2018-07-18
-tags: python, steam, steamkit
+**steamkit-python** 是一个用 python with asyncio 简易实现了 [steamkit](https://github.com/SteamRE/SteamKit/)
 
-
+`asynio` 是需要 python 3.4 
 
 #### 1. 连接握手
 
@@ -225,3 +223,7 @@ Multi 包含一个或多个 message, 每个结构为, 前 4 个字节为消息�
 1. https://github.com/ValvePython/steam/issues/79
 2. https://github.com/ValvePython/steam
 3. https://github.com/SteamRE/SteamKit/issues/555
+
+
+
+Under Apache License
